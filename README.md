@@ -1,4 +1,4 @@
-# awesome-devsecops
+# Awesome DevSecOps
 The awesome collections for developer practice DevSecOps
 
 
