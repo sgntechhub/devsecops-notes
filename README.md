@@ -8,4 +8,4 @@ The awesome collections for developer practice DevSecOps
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch)
 - [BloomRPC](https://github.com/uw-labs/bloomrpc)
 - [Ansible](https://devhints.io/ansible-guide)
-- [Configuring-CI-CD-on-Kubernetes-with-Jenkins](https://github.com/kemallaydin/Configuring-CI-CD-on-Kubernetes-with-Jenkins)
+- [CI-CD-on-Kubernetes](https://github.com/kemallaydin/Configuring-CI-CD-on-Kubernetes-with-Jenkins)
