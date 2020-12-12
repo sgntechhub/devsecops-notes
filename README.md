@@ -1,6 +1,10 @@
 # Awesome DevSecOps
 The awesome collections for developer practice DevSecOps
 
+## Git
+
+- [A collection of useful .gitignore templates](https://github.com/github/gitignore)
+
 
 ## Tools
 
