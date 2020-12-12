@@ -1,5 +1,6 @@
-# Awesome DevSecOps
-The awesome collections for developer practice DevSecOps
+# DevSecOps Notes
+
+> All notes for DevSecOps journey
 
 ## Git
 
