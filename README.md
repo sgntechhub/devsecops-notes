@@ -13,6 +13,10 @@
 
 ## Tools
 
+## Vim
+
+- [All things Vim](https://github.com/mhinz/vim-galore)
+
 ## Rest/GPRC
 
 - [Insomnia](https://github.com/Kong/insomnia)
