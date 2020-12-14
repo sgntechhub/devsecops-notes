@@ -21,6 +21,10 @@
 
 - [Draw.io](https://app.diagrams.net/)
 
+## Database
+
+- [Database diagram designer online](https://dbdiagram.io/d)
+
 ## Rest/GPRC
 
 - [Insomnia](https://github.com/Kong/insomnia)
