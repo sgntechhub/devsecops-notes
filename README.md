@@ -2,6 +2,10 @@
 
 > All notes for DevSecOps journey
 
+## Getting started
+
+- [Build your own](https://github.com/danistefanovic/build-your-own-x)
+
 ## Git
 
 - [A collection of useful .gitignore templates](https://github.com/github/gitignore)
