@@ -15,6 +15,7 @@
 ### Bazel
 
 - [Evaluating bazel for building firefox](https://blog.mozilla.org/nfroyd/tag/bazel/)
+- [How Tokopedia Achieved 1000% Faster iOS Build Time](https://medium.com/tokopedia-engineering/how-tokopedia-achieved-1000-faster-ios-build-time-7664b2d8ae5)
 
 
 ## Tools
