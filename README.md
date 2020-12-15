@@ -10,6 +10,12 @@
 
 - [A collection of useful .gitignore templates](https://github.com/github/gitignore)
 
+## Build tool
+
+### Bazel
+
+- [Evaluating bazel for building firefox](https://blog.mozilla.org/nfroyd/tag/bazel/)
+
 
 ## Tools
 
