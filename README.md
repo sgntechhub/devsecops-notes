@@ -6,6 +6,10 @@
 
 - [Build your own](https://github.com/danistefanovic/build-your-own-x)
 
+## Development Mindset
+
+- [Refactoring.Guru](https://refactoring.guru/) - makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles, and other smart programming topics.
+
 ## Git
 
 - [A collection of useful .gitignore templates](https://github.com/github/gitignore)
