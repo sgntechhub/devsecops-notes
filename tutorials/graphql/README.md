@@ -1,5 +1,11 @@
 # GraphQL
 
+## Must
+
+- Queries (to read:select)
+- Mutations (to write:create/update/delete)
+- Supscription (to recieve a event)
+
 ## Queries and Mutations
 
 - Fields:
