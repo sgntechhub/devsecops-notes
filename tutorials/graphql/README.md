@@ -15,3 +15,9 @@
 - Fragments: ???
 - Variables: param from client
 - Directives: @include, @skip
+
+## References
+
+- https://www.redhat.com/architect/apis-soap-rest-graphql-grpc
+- https://nordicapis.com/when-to-use-what-rest-graphql-webhooks-grpc/
+- https://www.freecodecamp.org/news/deep-dive-into-graphql-with-golang-d3e02a429ac3/
