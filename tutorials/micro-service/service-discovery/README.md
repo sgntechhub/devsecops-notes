@@ -20,3 +20,4 @@
 > Service registry là nơi để chứa các metadata của các microservice instances (bao gồm vị trí location, host port,…). Các microservice instance được đăng ký với service registry khi khởi động và sẽ hủy đăng ký khi bị shut down. Các thành phần khác cần tìm thông tin của một microservice nào đó thì sẽ tìm thông qua service registry.
 
 - https://microservices.io/patterns/server-side-discovery.html
+- https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/
