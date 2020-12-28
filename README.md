@@ -28,6 +28,8 @@
 
 ## Tools
 
+- [Jenkins](https://github.com/jenkinsci/jenkins)
+
 ## Vim
 
 - [All things Vim](https://github.com/mhinz/vim-galore)
@@ -51,3 +53,11 @@
 ## Network
 
 - [Packet Tracer](https://www.netacad.com/courses/packet-tracer)
+
+## Inspired
+
+- https://github.com/dastergon/awesome-sre
+- https://github.com/dastergon/awesome-chaos-engineering
+- https://github.com/trimstray/the-book-of-secret-knowledge
+- https://github.com/bregman-arie/devops-exercises
+
