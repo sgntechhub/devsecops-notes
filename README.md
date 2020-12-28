@@ -10,6 +10,10 @@
 
 - [Refactoring.Guru](https://refactoring.guru/) - makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles, and other smart programming topics.
 
+## Postmortem
+
+- [Template](https://github.com/dastergon/postmortem-templates)
+
 ## Git
 
 - [A collection of useful .gitignore templates](https://github.com/github/gitignore)
@@ -23,6 +27,8 @@
 
 
 ## Tools
+
+- [Jenkins](https://github.com/jenkinsci/jenkins)
 
 ## Vim
 
@@ -47,3 +53,11 @@
 ## Network
 
 - [Packet Tracer](https://www.netacad.com/courses/packet-tracer)
+
+## Inspired
+
+- https://github.com/dastergon/awesome-sre
+- https://github.com/dastergon/awesome-chaos-engineering
+- https://github.com/trimstray/the-book-of-secret-knowledge
+- https://github.com/bregman-arie/devops-exercises
+
