@@ -46,7 +46,7 @@
 
 2. Rollback an update 
 
-- `kubectl rollout undo` - revert the deployment to the previous known state
+- `kubectl rollout undo` - revert the deployment to the previous known state. Alternatively, you can rollback to a specific revision by specifying it with --to-revision
 
 
 - https://kubernetes.io/docs/tutorials/
