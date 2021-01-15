@@ -10,6 +10,10 @@
 
 - [Refactoring.Guru](https://refactoring.guru/) - makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles, and other smart programming topics.
 
+## Incident Management
+
+- https://github.com/meirwah/awesome-incident-response
+
 ## Postmortem
 
 - [Template](https://github.com/dastergon/postmortem-templates)
